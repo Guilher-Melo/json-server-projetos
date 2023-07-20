@@ -1,0 +1,24 @@
+{
+  "projects": [{
+    "id": "1",
+    "title": "Catálogo de filmes",
+    "description": "Consumindo a API do TMDB para listar os filmes mais populares no momento, além de buscar outros filmes de acordo com a palavra chave.",
+    "technologies": ["Html", "Css", "Js"],
+    "url": "https://github.com/Guilher-Melo/Filmes-populares-TMDB"
+  },
+  {
+    "id": "2",
+    "title": "Lista de Tarefas",
+    "description": "Lista de tarefas simples. Nela é possível adicionar uma tarefa, marcar como concluída e excluir tarefa.",
+    "technologies": ["Html", "Css", "React", "Node", "MongoDB"],
+    "url": "https://github.com/Guilher-Melo/frontend-to-do-app"
+  },
+  {
+    "id": "3",
+    "title": "Landing Page",
+    "description": "Landing page feita com HTMl, CSS e JavaScript",
+    "technologies": ["Html", "Css", "Js"],
+    "url": "https://github.com/Guilher-Melo/Landing-Page"
+  }
+]
+}
