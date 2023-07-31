@@ -25,7 +25,7 @@
     "title": "Bot de música discord",
     "description": "Um Bot de música feito em Java para o discord, utilizando as bibliotecas JDA e lavaplayer",
     "technologies": ["Java", "Gradle", "Discord"],
-    "url": "https://github.com/Guilher-Melo/Landing-Page"
+    "url": "https://github.com/Guilher-Melo/botmusica-discord"
   }
 ]
 }
