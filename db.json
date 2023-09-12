@@ -29,8 +29,8 @@
   },
   {
     "id": "5",
-    "title": "Refatoração do projeto de catálogo de filmes",
-    "description": "Um catálogo de filmes feito com a api do TMDB. Dessa vez, foi utilizado react, facilitando o trabalho de rotas com react-router-dom.O site lista os filmes populares, mostra os detalhes de cada filme e permite pesquisar algum filme.",
+    "title": "Refatoração catálogo de filmes",
+    "description": "O site lista os filmes populares, mostra os detalhes de cada um, como sinopse e nota, e permite pesquisar algum filme.",
     "technologies": ["React", "Html", "Css"],
     "url": "https://github.com/Guilher-Melo/filmes-populares-react"
   }
